@@ -30,4 +30,4 @@ const removingLogs = () => {
 
 creatingLogs();
 // removingLogs(); 
-// Use one at 
+// Use one at a time
